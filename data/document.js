@@ -9,7 +9,7 @@ return _creator();
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?cf42174bad13f345227f35b887de0141";
+  hm.src = "https://hm.baidu.com/hm.js?0bff69544242c878b0a3da39b9b424b0";
   var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
