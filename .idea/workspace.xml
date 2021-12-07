@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7248a2c-c53a-4ae7-90bc-cb134ce5593a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data/document.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/document.js" afterDir="false" />
-    </list>
+    <list default="true" id="a7248a2c-c53a-4ae7-90bc-cb134ce5593a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="csv导入.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="csv导入.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csv导入.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="402">
@@ -22,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="document.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="document.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/document.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -47,7 +45,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="800" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -104,7 +102,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -145,17 +143,17 @@
     <entry file="file://$PROJECT_DIR$/data/article.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/document.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csv导入.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/document.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
